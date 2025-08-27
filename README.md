@@ -15,7 +15,8 @@ Passionate about weather data analysis and building real-world, scalable applica
 ---
 
 ## Key Projects  
-- [mygisplatform](https://github.com/mbnahmadi/mygisplatform) — A comprehensive authentication system built with Django  
+- [gisplatform](https://github.com/mbnahmadi/gisplatform) — A comprehensive authentication system built with Django
+- [control project](https://github.com/mbnahmadi/project-control)
 - Other ongoing projects based on roadmap and Hydra app development
 
 ---
