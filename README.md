@@ -6,17 +6,16 @@ Passionate about weather data analysis and building real-world, scalable applica
 ---
 
 ## Skills  
-- Python / Django / DRF  
-- GIS / GeoDjango / NetCDF / xarray  
+- Python / Django / DRF   
 - Authentication systems (OTP, 2FA, Email verification)  
-- API design and optimization  
-- Always eager to learn and collaborate with other developers
-
+- API design and optimization
+- GIS / GeoDjango / NetCDF(basic) / xarray(basic)
+    
 ---
 
 ## Key Projects  
-- [gisplatform](https://github.com/mbnahmadi/gisplatform) — A comprehensive authentication system built with Django - Developing ...
-- [control project](https://github.com/mbnahmadi/project-control) - Developing ...
+- [control project](https://github.com/mbnahmadi/project-control) - Internal project monitoring system with admin-based management, Excel export, map visualization, and implemented advanced filters (company, locations, overlapping date ranges) - Developing ...
+- [gisplatform](https://github.com/mbnahmadi/gisplatform) — A (PASE 1):comprehensive authentication system built with Django - Developing ...
 - [total-database](https://github.com/mbnahmadi/total-database) - Developing ...
 - Other ongoing projects based on roadmap and Hydra app development
 
