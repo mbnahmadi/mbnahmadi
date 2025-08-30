@@ -1,4 +1,4 @@
-# Hi, I'm Mobin 👋
+# Hi, I'm Mobin
 
 I am a backend developer specializing in Django, Django REST Framework, and GIS.  
 Passionate about weather data analysis and building real-world, scalable applications.
