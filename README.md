@@ -6,13 +6,13 @@ Passionate about building scalable, real-world applications and working with dat
 ---
 
 ## Skills  
-•	Backend & API: Django, Django REST Framework (DRF), Celery(basic experience) 
-•	Database & Data Processing: PostgreSQL, PostGIS, MongoDB(basic), pandas
-•	Frontend (basic): Leaflet.js, Chart.js, HTML, CSS, JavaScript 
-•	Authentication & Security: JWT, 2FA, auth, password reset flows, rate limiting
-•	DevOps & Tools: Linux (server management), Gunicorn, Nginx, Git, Docker (basic), Swagger/OpenAPI, Excel export
-•	ETL & Performance: Bulk insert, indexing, clustering, high-volume CSV/NetCDF processing 
-•	Other: Markdown processing, HTML rendering  
+- Backend & API: Django, Django REST Framework (DRF), Celery(basic experience) 
+- Database & Data Processing: PostgreSQL, PostGIS, MongoDB(basic), pandas
+- Frontend (basic): Leaflet.js, Chart.js, HTML, CSS, JavaScript 
+- Authentication & Security: JWT, 2FA, auth, password reset flows, rate limiting
+- DevOps & Tools: Linux (server management), Gunicorn, Nginx, Git, Docker (basic), Swagger/OpenAPI, Excel export
+- ETL & Performance: Bulk insert, indexing, clustering, high-volume CSV/NetCDF processing 
+- Other: Markdown processing, HTML rendering  
 
     
 ---
